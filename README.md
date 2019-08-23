@@ -12,4 +12,4 @@ Storage | 16GB
 MicroSD | Up to 64GB
 Battery | Li-Pol 4000mAh battery
 Display | 720 x 1280 pixels, 5.5 inches
-Camera  | Main 8MP / Front 5MP, autofocus, LED flash
+Camera  | Main 13MP / Front 8MP, autofocus, LED flash
